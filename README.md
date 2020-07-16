@@ -1,5 +1,5 @@
 # ESP8266 based  Homekit Air Purifier using [Xiaomi Air Filter](https://s.click.aliexpress.com/e/_dYLu1bZ)🌈
-ESP8266 Based  HomeKit Air Purifier project using PMSx003 PM2.5 sensor, SHT3x temperature/humidity sensor, PWM controlled 12V fan and a Xiaomi Air Purifier Filter💨
+ESP8266 Based  HomeKit Air Purifier project using [PMS7003 PM2.5 sensor](https://s.click.aliexpress.com/e/_dX9Hv8F), [SHT3x](http://s.click.aliexpress.com/e/qAfJeXuk) temperature/humidity sensor, PWM controlled [12V fan](https://s.click.aliexpress.com/e/_d6EcFOX) and a [Xiaomi Air Purifier Filter](https://s.click.aliexpress.com/e/_dYLu1bZ)💨
 
 
 ------
@@ -11,6 +11,8 @@ ESP8266 Based  HomeKit Air Purifier project using PMSx003 PM2.5 sensor, SHT3x
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYEK69ZYG69S&source=url)
 <br/>
 <br/>
+
+# Still under development! Please be patient 😇
 
 ## For usage and more information please read the [Wiki page](https://github.com/HomeKidd/HomeKit-Air-Purifier-ESP8266/wiki/)!
 
