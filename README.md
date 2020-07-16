@@ -16,17 +16,17 @@ ESP8266 Based  HomeKit Air Purifier project using PMSx003 PM2.5 sensor, SHT3x
 
 **Features:**
 
-* PM2.5 and PM10 Air Quality sensor
-* Temperature / Humidity sensor
+* [PM2.5 and PM10 Air Quality sensor](https://s.click.aliexpress.com/e/_dX9Hv8F)
+* [Temperature / Humidity sensor](http://s.click.aliexpress.com/e/qAfJeXuk)
 * Manual / Automatic mode
 * Fan speed control _(only in Manual mode)_
 * Night/Silent mode
 * Status light _(based on IAQ)_
 * ~~Light sensor~~
-* ~~OLED display~~
+* ~~[OLED display](https://s.click.aliexpress.com/e/_d7Bj0V3)~~
 * Child Lock _(Enable/Disable button press via Eve app)_
 * Power / Reset button
-* ~~OTA firmware update~~ _(not implemented yet)_
+* ~~OTA firmware update~~
 
 **Demo:**
 
