@@ -23,7 +23,7 @@ ESP8266 Based  HomeKit Air Purifier project using PMSx003 PM2.5 sensor, SHT3x
 
 **Demo:**
 
-[![](http://img.youtube.com/vi/TG9xq7ith0k/0.jpg)](http://www.youtube.com/ccwatch?v=TG9xq7ith0k "Demo Video")
+[![](http://img.youtube.com/vi/TG9xq7ccith0k/0.jpg)](http://www.youtube.com/ccwatch?v=TG9xq7ith0k "Demo Video")
 <br/>
 <img src="https://github.com/HomeKidd/Homekit-WS2812B-controller/raw/master/Imagecs/demo.jpg" class="center" width="500"/>
 
