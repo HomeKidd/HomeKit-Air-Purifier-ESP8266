@@ -6,17 +6,24 @@ ESP8266 Based  HomeKit Air Purifier project using PMSx003 PM2.5 sensor, SHT3x
 [![Instagram URL](https://img.shields.io/twitter/url/https/www.instagram.com/homekidd?label=Follow&logo=instagram&style=social)](https://www.instagram.com/homekidd) [![FaceBook URL](https://img.shields.io/twitter/url/https/www.facebook.com/HomeKiid?label=Like&logo=facebook&style=social)](https://www.facebook.com/HomeKiid) [![YouTube URL](https://img.shields.io/twitter/url/https/www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA?label=Follow&logo=youtube&style=social)](https://www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA)
 ------
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/Homekit-WS2812B-controller/total?color=green)](https://github.com/HomeKidd/Homekit-WS2812B-controller/releases) 
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/Homekit-WS2812B-controller?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/Homekit-WS2812B-controller/releases) 
+[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/HomeKit-Air-Purifier-ESP8266/total?color=green)](https://github.com/HomeKidd/Homekit-WS2812B-controller/releases) 
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/HomeKit-Air-Purifier-ESP8266?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/HomeKit-Air-Purifier-ESP8266/releases) 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYEK69ZYG69S&source=url)
 <br/>
 <br/>
 
-## For usage and more information please read the [Wiki page](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/)!
+## For usage and more information please read the [Wiki page](https://github.com/HomeKidd/HomeKit-Air-Purifier-ESP8266/wiki/)!
 
 **Features:**
 
-* 
+* PM2.5 and PM10 Air Quality sensor
+* Temperature / Humidity sensor
+* Manual / Automatic mode
+* Fan speed control _(only in Manual mode)_
+* Night/Silent mode
+* Status light _(based on IAQ)_
+* ~~Light sensor~~
+* ~~OLED display~~
 * Child Lock _(Enable/Disable button press via Eve app)_
 * Power / Reset button
 * ~~OTA firmware update~~ _(not implemented yet)_
